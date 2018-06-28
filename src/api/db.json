@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 28949997,
+      "firstName": "Casey",
+      "lastName": "Robel",
+      "email": "Karen2@gmail.com"
+    },
+    {
+      "id": 56675492,
+      "firstName": "Tressa",
+      "lastName": "Pacocha",
+      "email": "Alisha_Beatty72@hotmail.com"
+    },
+    {
+      "id": 52023919,
+      "firstName": "Jeff",
+      "lastName": "Mitchell",
+      "email": "Helen0@yahoo.com"
+    },
+    {
+      "id": 63844558,
+      "firstName": "Baby",
+      "lastName": "Schroeder",
+      "email": "Lavada_Ziemann@gmail.com"
+    }
+  ]
+}
